@@ -94,11 +94,9 @@ Capacité à coupler l'analyse satellite avec des relevés de terrain précis vi
 ## 📊 Statistiques GitHub
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fy0500&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Statistiques de fy0500" height="192px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fy0500&theme=radium&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="Série de contributions" height="192px"/>
 </div>   
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fy0500&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Langages les plus utilisés" />
 </div>
 
 ---
