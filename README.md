@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Fiononana%20Rasamimanana&fontSize=50&fontAlignY=35&animation=twinkling&desc=Expertise%20au%20Service%20de%20la%20Terre%20et%20de%20la%20Gestion%20des%20Risques&descAlignY=55&descAlign=50" alt="Bannière de profil" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Fiononana%20Rasamimanana&fontSize=50&fontAlignY=35&animation=twinkling&desc=Expertise%20au%20Machine%Learning%20et%20de%20la%20Gestion%20des%20Bases%20des%20données&descAlignY=55&descAlign=50" alt="Bannière de profil" />
 </div>
 
 <h1 align="center">Bienvenu dans mon espace github</h1>
 
-<h3 align="center">Expertise au Service de la Terre et de la Gestion des Risques</h3>
+<h3 align="center">Expertise au Machine Learning et de la Gestion des Bases des données</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fy0500&label=Vues+du+profil&color=blue&style=flat-square" />
