@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Salut, je suis Fiononana</h1>
 
-<h3 align="center">Passionné par la data, l'analyse et le développement</h3>
+<h3 align="center">Expert en Géomatique, Télédétection et Analyse de Données</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fy0500&label=Vues+du+profil&color=blue&style=flat-square" alt="Vues du profil" />
@@ -14,20 +14,10 @@
 
 ### 👨‍💻 À propos de moi
 
-- 🔭 Je travaille actuellement sur **l'analyse de données et des projets Jupyter Notebook**.
-- 🌱 J'apprends en permanence de nouvelles technologies liées à la **Data Science** et au **Développement**.
-- 💬 Demandez-moi des choses sur **Python, l'analyse de données et mes projets**.
+- 🔭 Je suis un professionnel passionné par l'analyse de données géospatiales, la télédétection et le machine learning.
+- 🌱 J'explore constamment de nouvelles approches pour résoudre des problèmes complexes liés à la Terre et à la gestion des risques.
+- 💬 N'hésitez pas à me contacter pour discuter de projets ou de collaborations.
 - 📫 Comment me joindre : Vous pouvez me trouver sur GitHub [@fy0500](https://github.com/fy0500).
-
----
-
-### 🛠️ Langages et Outils
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,jupyter,js,html,css,git,github&theme=light" alt="Mes compétences" />
-  </a>
-</p>
 
 ---
 
@@ -46,9 +36,50 @@
 
 ---
 
-### 📁 Mes Projets Récents
+### 🌟 Mon Expertise en un Coup d'Œil
+
+<div align="center">
+  <img src="./expertise_infographie.webp" alt="Infographie des expertises de Fiononana Rasamimanana" />
+</div>
+
+---
+
+### 🛠️ Langages et Outils Clés
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,jupyter,qgis,postgresql,js,html,css,git,github,gcp,aws,docker,linux&theme=light" alt="Mes compétences" />
+  </a>
+</p>
+
+- **SIG & Cartographie :** QGIS, PostgreBQL/PostGIS, SAGA GIS, OTB Toolbox
+- **Télédétection :** Google Earth Engine (GEE), Sentinel-1, Sentinel-2, SHAP
+- **Programmation :** Python (GeoPandas, Scikit-learn), JavaScript
+- **Outils :** Git, GitHub, Docker, Linux
+
+---
+
+### 🎓 Parcours Académique
+
+- **Spécialisation en Risques Naturels (2025-2026)** : Université de La Réunion (Mobilité internationale sur les Ressources et Risques Naturels des Environnements Tropicaux - RNET).
+- **Fondamentaux en Physique du Globe (Master 1 & 2)** : Université d'Antananarivo (expertise en processus physiques terrestres).
+- **Licence en Physique et Applications** : Faculté des Sciences d'Antananarivo (bases mathématiques et physiques pour l'analyse de données).
+
+---
+
+### 🌍 Engagement pour la Planète
+
+- **Analyse de Données pour la Planète :** Utilisation de la donnée spatiale pour la préservation des écosystèmes et la résilience face aux catastrophes.
+- **Collecte de Données de Terrain :** Couplage de l'analyse satellite avec des relevés de terrain via KoboCollect pour la validation des modèles.
+
+---
+
+### 📁 Projets Phares
 
 - **[My-work](https://github.com/fy0500/My-work)** : Projets et travaux d'analyse (Principalement en Jupyter Notebook et JavaScript).
+- **INERIS : Analyse des Risques Sanitaires :** Développement d'une méthodologie automatisée en Python pour caractériser l'occupation du sol et évaluer l'exposition des populations aux risques industriels.
+- **IOGA : Comptabilité Écosystémique (CEPF) :** Cartographie diachronique à Madagascar pour détecter les changements d'usage des sols et valoriser le capital naturel.
+- **Exploitation de l'Open Data :** Intégration et traitement de données massives (BDNB, OCS).
 
 <br>
 
