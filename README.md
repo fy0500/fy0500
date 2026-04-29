@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Fiononana%20Rasamimanana&fontSize=50&fontAlignY=35&animation=twinkling&desc=Expertise%20au%20Service%20de%20la%20Terre%20et%20de%20la%20Gestion%20des%20Risques&descAlignY=55&descAlign=50" alt="Bannière de profil" />
 </div>
 
-<h1 align="center">Fiononana Rasamimanana</h1>
+<h1 align="center">Bienvenu dans mon espace github</h1>
 
 <h3 align="center">Expertise au Service de la Terre et de la Gestion des Risques</h3>
 
@@ -14,7 +14,7 @@
 
 ## Présentation Générale
 
-Ce profil présente les compétences, projets et parcours académique de Fiononana Rasamimanana, un professionnel spécialisé dans l'analyse de données géospatiales, la télédétection et le machine learning, avec un engagement marqué pour la gestion des risques et la préservation de l'environnement.
+Ce profil présente mes compétences, projets et parcours académique, un professionnel spécialisé dans l'analyse de données géospatiales, la télédétection et le machine learning, avec un engagement marqué pour la gestion des risques et la préservation de l'environnement.
 
 ---
 
