@@ -21,7 +21,7 @@ Ce profil présente mes compétences, projets et parcours académique, un profes
 ## Synthèse des Compétences et Projets
 
 <div align="center">
-  <img src="./Profils.webp" alt="Infographie des expertises de Fiononana Rasamimanana" />
+  <img src="C:/Users/Fiononana/Downloads/Profils.png" alt="Infographie des expertises de Fiononana Rasamimanana" />
 </div>
 
 ---
