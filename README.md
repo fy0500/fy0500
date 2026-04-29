@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Bienvenue%20sur%20mon%20GitHub&fontSize=50&fontAlignY=35&animation=twinkling&desc=Fiononana%20(%40fy0500)&descAlignY=55&descAlign=50" alt="Bannière de profil" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Fiononana%20Rasamimanana&fontSize=50&fontAlignY=35&animation=twinkling&desc=Expertise%20au%20Service%20de%20la%20Terre%20et%20de%20la%20Gestion%20des%20Risques&descAlignY=55&descAlign=50" alt="Bannière de profil" />
 </div>
 
-<h1 align="center">👋 Salut, je suis Fiononana</h1>
+<h1 align="center">Fiononana Rasamimanana</h1>
 
-<h3 align="center">Expert en Géomatique, Télédétection et Analyse de Données</h3>
+<h3 align="center">Expertise au Service de la Terre et de la Gestion des Risques</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fy0500&label=Vues+du+profil&color=blue&style=flat-square" alt="Vues du profil" />
@@ -12,16 +12,70 @@
 
 ---
 
-### 👨‍💻 À propos de moi
+## Présentation Générale
 
-- 🔭 Je suis un professionnel passionné par l'analyse de données géospatiales, la télédétection et le machine learning.
-- 🌱 J'explore constamment de nouvelles approches pour résoudre des problèmes complexes liés à la Terre et à la gestion des risques.
-- 💬 N'hésitez pas à me contacter pour discuter de projets ou de collaborations.
-- 📫 Comment me joindre : Vous pouvez me trouver sur GitHub [@fy0500](https://github.com/fy0500).
+Ce profil présente les compétences, projets et parcours académique de Fiononana Rasamimanana, un professionnel spécialisé dans l'analyse de données géospatiales, la télédétection et le machine learning, avec un engagement marqué pour la gestion des risques et la préservation de l'environnement.
 
 ---
 
-### 📊 Statistiques GitHub
+## Synthèse des Compétences et Projets
+
+<div align="center">
+  <img src="./Profils.webp" alt="Infographie des expertises de Fiononana Rasamimanana" />
+</div>
+
+---
+
+## Expertises Techniques Clés
+
+### Maîtrise du SIG et de la Cartographie
+Expert sur QGIS, PostgreSQL/PostGIS et les outils d'analyse spatiale (SAGA GIS, OTB Toolbox) pour la structuration de bases de données complexes.
+
+### Télédétection et Imagerie Satellitaire
+Spécialiste du traitement d'images Sentinel-1 et Sentinel-2 via Google Earth Engine (GEE), SHAP et les méthodes de classification supervisée.
+
+### Programmation et Machine Learning
+Automatisation de chaînes de traitement via Python (GeoPandas, Scikit-learn) et application d'algorithmes Random Forest pour la classification d'usage des sols.
+
+---
+
+## Projets Phares et Impact Professionnel
+
+### INERIS : Analyse des Risques Sanitaires
+Développement d'une méthodologie automatisée en Python pour caractériser l'occupation du sol et évaluer l'exposition des populations aux risques industriels.
+
+### IOGA : Comptabilité Écosystémique (CEPF)
+Réalisation d'une cartographie diachronique à Madagascar pour détecter les changements d'usage des sols et valoriser le capital naturel.
+
+### Exploitation de l'Open Data
+Intégration et traitement de données massives issues de la Base de Données Nationale des Bâtiments (BDNB) et de l'OCS.
+
+---
+
+## Parcours Académique Solide
+
+### Licence en Physique et Applications
+Faculté des Sciences d'Antananarivo. Diplôme obtenu, posant les bases mathématiques et physiques de son analyse de données.
+
+### Fondamentaux en Physique du Globe
+Master 1 et premier semestre du Master 2 à l'Université d'Antananarivo, ancrant son expertise dans les processus physiques terrestres.
+
+### Spécialisation en Risques Naturels (2025-2026)
+Université de La Réunion. Mobilité internationale focalisée sur les Ressources et Risques Naturels des Environnements Tropicaux (RNET).
+
+---
+
+## Engagement pour la Planète
+
+### Analyse de Données pour la Planète
+Engagement profond dans l'utilisation de la donnée spatiale comme outil de préservation des écosystèmes et de résilience face aux catastrophes.
+
+### Collecte de Données de Terrain
+Capacité à coupler l'analyse satellite avec des relevés de terrain précis via KoboCollect pour une validation rigoureuse des modèles.
+
+---
+
+## Statistiques GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fy0500&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Statistiques de fy0500" height="192px"/>
@@ -36,53 +90,12 @@
 
 ---
 
-### 🌟 Mon Expertise en un Coup d'Œil
-
-<div align="center">
-  <img src="./expertise_infographie.webp" alt="Infographie des expertises de Fiononana Rasamimanana" />
-</div>
-
----
-
-### 🛠️ Langages et Outils Clés
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,jupyter,qgis,postgresql,js,html,css,git,github,gcp,aws,docker,linux&theme=light" alt="Mes compétences" />
-  </a>
-</p>
-
-- **SIG & Cartographie :** QGIS, PostgreBQL/PostGIS, SAGA GIS, OTB Toolbox
-- **Télédétection :** Google Earth Engine (GEE), Sentinel-1, Sentinel-2, SHAP
-- **Programmation :** Python (GeoPandas, Scikit-learn), JavaScript
-- **Outils :** Git, GitHub, Docker, Linux
-
----
-
-### 🎓 Parcours Académique
-
-- **Spécialisation en Risques Naturels (2025-2026)** : Université de La Réunion (Mobilité internationale sur les Ressources et Risques Naturels des Environnements Tropicaux - RNET).
-- **Fondamentaux en Physique du Globe (Master 1 & 2)** : Université d'Antananarivo (expertise en processus physiques terrestres).
-- **Licence en Physique et Applications** : Faculté des Sciences d'Antananarivo (bases mathématiques et physiques pour l'analyse de données).
-
----
-
-### 🌍 Engagement pour la Planète
-
-- **Analyse de Données pour la Planète :** Utilisation de la donnée spatiale pour la préservation des écosystèmes et la résilience face aux catastrophes.
-- **Collecte de Données de Terrain :** Couplage de l'analyse satellite avec des relevés de terrain via KoboCollect pour la validation des modèles.
-
----
-
-### 📁 Projets Phares
+## Projets Récents
 
 - **[My-work](https://github.com/fy0500/My-work)** : Projets et travaux d'analyse (Principalement en Jupyter Notebook et JavaScript).
-- **INERIS : Analyse des Risques Sanitaires :** Développement d'une méthodologie automatisée en Python pour caractériser l'occupation du sol et évaluer l'exposition des populations aux risques industriels.
-- **IOGA : Comptabilité Écosystémique (CEPF) :** Cartographie diachronique à Madagascar pour détecter les changements d'usage des sols et valoriser le capital naturel.
-- **Exploitation de l'Open Data :** Intégration et traitement de données massives (BDNB, OCS).
 
 <br>
 
 <div align="center">
-  <i>Généré avec ❤️ pour améliorer mon profil GitHub</i>
+  <i>Généré pour améliorer mon profil GitHub</i>
 </div>
