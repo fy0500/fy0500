@@ -111,7 +111,7 @@ Je m’engage à utiliser les données spatiales et les outils d’analyse avanc
 
 - Email : fiononana116@gmail.com
 - GitHub : [@fy0500](https://github.com/fy0500)
-- Portfolio : [My-work](https://github.com/fy0500/My-work)
+- Script : [My-work](https://github.com/fy0500/My-work)
 
 <p align="center">
   <i>Construire des solutions basées sur les données pour mieux comprendre notre planète.</i>
