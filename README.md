@@ -1,45 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Fiononana%20Rasamimanana&fontSize=50&fontAlignY=35&animation=twinkling&desc=Expertise%20au%20Machine%20Learning%20et%20de%20la%20Gestion%20des%20Bases%20des%20données&descAlignY=55&descAlign=50" alt="Bannière de profil" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Fiononana%20Rasamimanana&fontSize=50&fontAlignY=35&animation=twinkling&desc=G%C3%A9omatique%20%7C%20T%C3%A9l%C3%A9d%C3%A9tection%20%7C%20Data%20Science&descSize=16" />
 </div>
 
-<h1 align="center">Bienvenu dans mon espace github</h1>
-
-<h3 align="center">Expertise au Machine Learning et de la Gestion des Bases des données</h3>
+<h1 align="center">Fiononana Rasamimanana</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fy0500&label=Vues+du+profil&color=blue&style=flat-square" />
+  <strong>Géomaticien · Data Scientist · Télédétection & Analyse spatiale</strong>
 </p>
-
----
-
-## Présentation Générale
-
-Ce profil présente mes compétences, projets et parcours académique, un professionnel spécialisé dans l'analyse de données géospatiales, la télédétection et le machine learning, avec un engagement marqué pour la gestion des risques et la préservation de l'environnement.
-
----
-
-## Synthèse des Compétences et Projets
-
-<div align="center">
-  <img src="./MybackGround.png" alt="Infographie des expertises de Fiononana Rasamimanana" />
-</div>
-
----
-
-## Expertises Techniques Clés
-
-### Maîtrise du SIG et de la Cartographie
-Expert sur QGIS, PostgreSQL/PostGIS et les outils d'analyse spatiale (SAGA GIS, OTB Toolbox) pour la structuration de bases de données complexes.
-
-### Télédétection et Imagerie Satellitaire
-Spécialiste du traitement d'images Sentinel-1 et Sentinel-2 via Google Earth Engine (GEE), SHAP et les méthodes de classification supervisée.
-
-### Programmation et Machine Learning
-Automatisation de chaînes de traitement via Python (GeoPandas, Scikit-learn) et application d'algorithmes Random Forest pour la classification d'usage des sols.
-
----
-
-## Technologies et Outils
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -49,64 +16,103 @@ Automatisation de chaînes de traitement via Python (GeoPandas, Scikit-learn) et
   <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Earth Engine" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fy0500&label=Vues+du+profil&color=blue&style=flat-square" />
 </p>
 
 ---
 
-## Projets Phares et Impact Professionnel
+## À propos
 
-### INERIS : Analyse des Risques Sanitaires
-Développement d'une méthodologie automatisée en Python pour caractériser l'occupation du sol et évaluer l'exposition des populations aux risques industriels.
+Je suis un professionnel passionné par la géomatique, la télédétection, l’analyse de données spatiales et le machine learning. Mon travail consiste à exploiter les données environnementales et territoriales pour mieux comprendre les dynamiques du sol, des paysages, des risques naturels et des usages des terres.
 
-### IOGA : Comptabilité Écosystémique (CEPF)
-Réalisation d'une cartographie diachronique à Madagascar pour détecter les changements d'usage des sols et valoriser le capital naturel.
-
-### Exploitation de l'Open Data
-Intégration et traitement de données massives issues de la Base de Données Nationale des Bâtiments (BDNB) et de l'OCS.
+Je m’intéresse particulièrement à la mise en place de méthodes analytiques robustes, à l’automatisation des traitements et à l’interprétation de données complexes issues de capteurs satellitaires, SIG et bases de données géospatiales.
 
 ---
 
-## Parcours Académique Solide
+## Domaines d’expertise
 
-### Licence en Physique et Applications
-Faculté des Sciences d'Antananarivo. Diplôme obtenu, posant les bases mathématiques et physiques de son analyse de données.
+### Géomatique & SIG
+- Analyse spatiale et cartographie
+- QGIS, PostgreSQL/PostGIS
+- Modélisation et gestion de données géographiques
+- Analyse diachronique et exploitation de données territoriales
 
-### Fondamentaux en Physique du Globe
-Master 1 et premier semestre du Master 2 à l'Université d'Antananarivo, ancrant son expertise dans les processus physiques terrestres.
+### Télédétection & imagerie satellite
+- Traitement de données Sentinel-1 et Sentinel-2
+- Classification d’occupation du sol
+- Analyse d’images satellites et cartographie des changements
+- Google Earth Engine et workflows d’analyse spatiale
 
-### Spécialisation en Risques Naturels (2025-2026)
-Université de La Réunion. Mobilité internationale focalisée sur les Ressources et Risques Naturels des Environnements Tropicaux (RNET).
-
----
-
-## Engagement pour la Planète
-
-### Analyse de Données pour la Planète
-Engagement profond dans l'utilisation de la donnée spatiale comme outil de préservation des écosystèmes et de résilience face aux catastrophes.
-
-### Collecte de Données de Terrain
-Capacité à coupler l'analyse satellite avec des relevés de terrain précis via KoboCollect pour une validation rigoureuse des modèles.
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fy0500&theme=radium&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="Série de contributions" height="192px"/>
-</div>   
- <div align="center">
-</div>
+### Data science & machine learning
+- Python pour l’analyse de données
+- Classification supervisée et modélisation prédictive
+- Traitement de données massives et automatisation de pipelines
+- Intégration de méthodes quantitatives à l’analyse environnementale
 
 ---
 
-## Projets Récents
+## Projets phares
 
-- **[My-work](https://github.com/fy0500/My-work)** : Projets et travaux d'analyse (Principalement en Jupyter Notebook et JavaScript).
+### 1. [My-work](https://github.com/fy0500/My-work)
+Portfolio personnel regroupant mes travaux, expérimentations et projets en géomatique, télédétection, Python et sciences des données.
 
-<br>
+### 2. Analyse des risques et occupations du sol
+Développement de méthodologies d’analyse pour caractériser l’occupation du sol et évaluer les impacts environnementaux et sanitaires.
 
-<div align="center">
-  <i>Généré pour améliorer mon profil GitHub</i>
-</div>
+### 3. Cartographie de changements d’usage des terres
+Étude diachronique de l’évolution des paysages à partir d’images satellitaires et de données géospatiales.
+
+### 4. Exploitation de l’open data
+Traitement, intégration et analyse de données publiques pour enrichir les diagnostics territoriaux et environnementaux.
+
+---
+
+## Stack technique
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-58A6FF?style=flat-square&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeoPandas-4D9A7A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+</p>
+
+---
+
+## Parcours académique
+
+- Licence en Physique et Applications – Faculté des Sciences d’Antananarivo
+- Formation en physique du globe et sciences de la Terre
+- Spécialisation en risques naturels et environnement – Université de La Réunion
+
+---
+
+## Engagement
+
+Je m’engage à utiliser les données spatiales et les outils d’analyse avancés pour contribuer à la gestion durable des ressources naturelles, la résilience face aux risques et la compréhension des environnements tropicaux.
+
+---
+
+## Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fy0500&theme=radium&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub streak stats" />
+</p>
+
+---
+
+## Contact
+
+- Email : fiononana116@gmail.com
+- GitHub : [@fy0500](https://github.com/fy0500)
+- Portfolio : [My-work](https://github.com/fy0500/My-work)
+
+<p align="center">
+  <i>Construire des solutions basées sur les données pour mieux comprendre notre planète.</i>
+</p>
