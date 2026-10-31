@@ -27,7 +27,7 @@
 
 ## À propos
 
-Je suis un professionnel passionné par la géomatique, la télédétection, l’analyse de données spatiales et le machine learning. Mon travail consiste à exploiter les données environnementales et territoriales pour mieux comprendre les dynamiques du sol, des paysages, des risques naturels et des usages des terres.
+Je suis  passionné par la géomatique, la télédétection, l’analyse de données spatiales et le machine learning. Mon travail consiste à exploiter les données environnementales et territoriales pour mieux comprendre les dynamiques du sol, des paysages, des risques naturels et des usages des terres.
 
 Je m’intéresse particulièrement à la mise en place de méthodes analytiques robustes, à l’automatisation des traitements et à l’interprétation de données complexes issues de capteurs satellitaires, SIG et bases de données géospatiales.
 
