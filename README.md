@@ -69,21 +69,6 @@ Développement de méthodologies d’analyse pour caractériser l’occupation d
 ### 4. Exploitation de l’open data
 Traitement, intégration et analyse de données publiques pour enrichir les diagnostics territoriaux et environnementaux.
 
----
-
-## Stack technique
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/QGIS-58A6FF?style=flat-square&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeoPandas-4D9A7A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-</p>
-
----
 
 ## Parcours académique
 
